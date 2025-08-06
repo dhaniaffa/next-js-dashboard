@@ -23,6 +23,9 @@ importers:
       clsx:
         specifier: ^2.1.1
         version: 2.1.1
+      fonts:
+        specifier: link:@/app/ui/fonts
+        version: link:@/app/ui/fonts
       next:
         specifier: latest
         version: 15.3.2(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
